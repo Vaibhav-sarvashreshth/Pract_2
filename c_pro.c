@@ -3,7 +3,7 @@
 int main()
 {	
 
-	int a,b,i,n;
+	int a;
 	int arr[100];
 	
 	printf("\n Please enter the value of a : \n ");
